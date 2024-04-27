@@ -1,6 +1,6 @@
 ## Bababos Case Study for Desktop Versions
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-This project have deployed in (https://bababos-web.surge.sh/).
+
 
 
 ## Bababos Case Study for Mobile Apps
